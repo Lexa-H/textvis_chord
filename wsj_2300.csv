@@ -1,0 +1,61 @@
+group,name,color
+1,Explicit,#00DA3C
+1,Implicit,#00DA3C
+1,EntRel,#00DA3C
+1,AltLex,#00DA3C
+2,Comparison.Contrast,#DF151A
+2,Expansion.Conjunction,#DF151A
+2,Expansion.Restatement,#DF151A
+2,Expansion.Instantiation,#DF151A
+2,Temporal.Synchrony,#DF151A
+2,Temporal.Asynchronous,#DF151A
+2,Contingency.Cause,#DF151A
+2,EntRel,#DF151A
+2,Comparison.Concession,#DF151A
+2,Contingency.Condition,#DF151A
+2,Expansion.Alternative,#DF151A
+2,Comparison,#DF151A
+2,Contingency.Cause.Reason,#DF151A
+2,Temporal.Asynchronous.Precedence,#DF151A
+2,Temporal.Asynchronous.Succession,#DF151A
+2,Contingency.Cause.Result,#DF151A
+2,Expansion.Alternative.Chosen alternative,#DF151A
+2,Expansion,#DF151A
+3,but,#00CBE7
+3,while,#00CBE7
+3,as,#00CBE7
+3,",",#00CBE7
+3,at,#00CBE7
+3,liquidity,#00CBE7
+3,.,#00CBE7
+3,to,#00CBE7
+3,of,#00CBE7
+3,p.m.,#00CBE7
+3,said,#00CBE7
+3,flashed,#00CBE7
+3,get,#00CBE7
+3,about 35,#00CBE7
+3,1\/2,#00CBE7
+3,philip,#00CBE7
+3,down,#00CBE7
+3,to certain levels .,#00CBE7
+3,temporarily,#00CBE7
+3,halt in the,#00CBE7
+3,in,#00CBE7
+3,``,#00CBE7
+3,big,#00CBE7
+3,a,#00CBE7
+3,the,#00CBE7
+3,s&p,#00CBE7
+3,stock,#00CBE7
+3,market,#00CBE7
+3,had,#00CBE7
+3,prepared,#00CBE7
+3,however,#00CBE7
+3,shearson,#00CBE7
+3,limit,#00CBE7
+3,trader,#00CBE7
+3,than,#00CBE7
+3,renewed,#00CBE7
+3,dealer-community,#00CBE7
+3,No raw text,#00CBE7
